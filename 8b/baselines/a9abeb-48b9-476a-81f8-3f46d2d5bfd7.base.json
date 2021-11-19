@@ -1,14 +1,22 @@
 {
     "AX": {
-        "error": 0.01007937853980854,
+        "error": 0.010079378486746607,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "value": 0.03017925106600601
+        "fn": 30,
+        "include_baseline_error": true,
+        "n": 30,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.030179250985383987
     },
     "CDD": {
         "error": 2.6326896239389654e-05,
@@ -22,15 +30,23 @@
         "value": 9.28133106308404e-05
     },
     "H1": {
-        "error": 0.006347001491713025,
+        "error": 0.006852865990274997,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "value": 0.015286323190874713
+        "fn": 30,
+        "include_baseline_error": true,
+        "n": 30,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.01834622062354659
     },
     "H2": {
         "error": 0.04623010300046384,
@@ -44,15 +60,23 @@
         "value": -0.16738944490823307
     },
     "L1": {
-        "error": 0.004111492051709227,
+        "error": 0.004620403041239624,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "value": 0.04101801316677905
+        "fn": 30,
+        "include_baseline_error": true,
+        "n": 30,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.04337824940060576
     },
     "L2": {
         "error": 0.0049974569864699595,
